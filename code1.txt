@@ -1,0 +1,4 @@
+<span class='code__special-key'>public</span> <span class='code__special-key'>static</span> <span class='code__special-key'>void</span> Func() {
+    <span class='code__special-key'>string</span> text = "Hello, World!";
+    Console.WriteLine(text);
+}

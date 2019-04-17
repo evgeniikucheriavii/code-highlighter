@@ -1,0 +1,11 @@
+D:\Мастерская\Обучение\Программирование\C#\projects\01\obj\Debug\netcoreapp2.2\01.csprojAssemblyReference.cache
+D:\Мастерская\Обучение\Программирование\C#\projects\01\obj\Debug\netcoreapp2.2\01.csproj.CoreCompileInputs.cache
+D:\Мастерская\Обучение\Программирование\C#\projects\01\obj\Debug\netcoreapp2.2\01.AssemblyInfoInputs.cache
+D:\Мастерская\Обучение\Программирование\C#\projects\01\obj\Debug\netcoreapp2.2\01.AssemblyInfo.cs
+D:\Мастерская\Обучение\Программирование\C#\projects\01\bin\Debug\netcoreapp2.2\01.deps.json
+D:\Мастерская\Обучение\Программирование\C#\projects\01\bin\Debug\netcoreapp2.2\01.runtimeconfig.json
+D:\Мастерская\Обучение\Программирование\C#\projects\01\bin\Debug\netcoreapp2.2\01.runtimeconfig.dev.json
+D:\Мастерская\Обучение\Программирование\C#\projects\01\bin\Debug\netcoreapp2.2\01.dll
+D:\Мастерская\Обучение\Программирование\C#\projects\01\bin\Debug\netcoreapp2.2\01.pdb
+D:\Мастерская\Обучение\Программирование\C#\projects\01\obj\Debug\netcoreapp2.2\01.dll
+D:\Мастерская\Обучение\Программирование\C#\projects\01\obj\Debug\netcoreapp2.2\01.pdb

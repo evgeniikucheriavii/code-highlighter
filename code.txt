@@ -1,0 +1,9 @@
+public static void Func () 
+{
+    string text = "Hello, World!";
+    if (text == "Hello, World!") 
+    {
+        Console.WriteLine(text);
+        this.item.add("bebebe");
+    }
+}

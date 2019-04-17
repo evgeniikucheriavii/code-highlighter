@@ -1,0 +1,38 @@
+.code {
+    background: #1e1e1e url(code.svg) no-repeat;
+    background-size: 25px 25px;
+    color: #9cdcfe;
+    font-family: monospace;
+    max-width: 600px;
+    margin: 2px auto;
+}
+
+.code__content {
+    padding: 25px 10px;
+    white-space: pre;
+}
+
+.code__special-key {
+    color: #569cd6;
+}
+
+.code__symbol {
+    color: #d4d4d4;
+}
+
+.code__dot {
+    color: #dcd079;
+}
+
+.code__construction {
+    color: #c57992;
+}
+
+.code__quote {
+    color: #ce743a;
+}
+
+.code__quote .code__dot, .code__quote .code__symbol, .code__quote .code__special-key,
+.code__quote .code__construction {
+    color: inherit;
+}
